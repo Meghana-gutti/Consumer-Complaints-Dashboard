@@ -1,5 +1,5 @@
 # Consumer-Complaints-Dashboard
-Overview
+# Overview:
 This GitHub repository provides a comprehensive guide and resources for creating an Consumer Complaints Dashboard using Microsoft Power BI. The project covers step-by-step instructions for data transformation in Power Query, establishing relationships between fact and dimension tables, implementing DAX measures, and creating impactful visualizations.
 
 # Key Features:
